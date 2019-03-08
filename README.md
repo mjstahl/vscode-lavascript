@@ -1,1 +1,1 @@
-# Visual Studio Code extension for Literate JavaScript
+# VS Code Extension for Literate JavaScript
